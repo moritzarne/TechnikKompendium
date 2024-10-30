@@ -1,0 +1,38 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.dvi
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
+*.glg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.run.xml
+*.ps
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+
+# Editor specific files
+*~ 
+*.swp
+
+# Build directories
+build/
+dist/
